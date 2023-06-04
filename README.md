@@ -1,0 +1,1 @@
+# OpenGl-VisualStudio-shader-project-template
